@@ -1,0 +1,2 @@
+hi = 'hihi'
+type(hi)
